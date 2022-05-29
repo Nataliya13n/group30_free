@@ -1,0 +1,8 @@
+1) samsung
+2) iphone
+3)honor[D[D[D[D[D honor
+
+:wq
+ls -la
+:;wq
+C[D[Dc
